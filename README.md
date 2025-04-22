@@ -1,7 +1,7 @@
 # Hi there, I'm Mykhailo! ![GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 I'm an aspiring Web Developer Apprentice (Azubi Fachinformatiker Anwendungsentwicklung) from Ukraine, currently learning and working in Germany 🇩🇪.
-I'm passionate about building cool things for the web!
+I'm interested about building cool things for the web!
 
 ---
 
@@ -35,7 +35,7 @@ At my apprenticeship, I get hands-on experience with various technologies. We pr
 
 ## 🔧 Tools and Interests
 
-I enjoy working with various tools that streamline development and learning. I'm comfortable using the Linux shell and writing simple Bash scripts. I'm also very interested in the world of open source and contributing to projects. For my personal projects, I often use Docker for development environments to keep things organized.
+I enjoy working with various tools that streamline development and learning. I'm comfortable using the Linux shell and writing simple Bash scripts. I'm also very interested in the world of open source projects. For my personal projects, I often use Docker for development environments to keep things organized.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
