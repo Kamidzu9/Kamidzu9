@@ -15,7 +15,7 @@
 At my apprenticeship, I get hands-on experience with various technologies. We primarily focus on e-commerce and content management systems:
 
 **Main Tech Stack:**
-
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 <p align="left">
   <img src="https://img.shields.io/badge/Shopware-%23189EFF?style=for-the-badge&logo=shopware&logoColor=white" alt="Shopware"/>
   <img src="https://img.shields.io/badge/WordPress-%2321759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
