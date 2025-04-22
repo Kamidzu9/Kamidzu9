@@ -78,10 +78,10 @@ When I code for fun or learning, I enjoy exploring modern web technologies:
 ## 📫 How to Reach Me
 
 <p align="left">
-  <a style="text-decoration: none!important" href="https://www.linkedin.com/in/mykhailo-solovey-34345934a/" target="_blank">
+  <a href="https://www.linkedin.com/in/mykhailo-solovey-34345934a/" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a style="text-decoration: none!important" href="mailto:msolovey.job@gmail.com">
+  <a href="mailto:msolovey.job@gmail.com style="text-decoration: none"">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
