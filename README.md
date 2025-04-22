@@ -27,6 +27,8 @@ At my apprenticeship, I get hands-on experience with various technologies. We pr
   <img src="https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
+*Note: At vocational school (Berufsschule), I also learned some basics of Python.*
+
 **Sometimes Exploring:**
 
 <p align="left">
