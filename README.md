@@ -1,72 +1,94 @@
-# Hi there, I'm Mykhailo! ![GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+# 👋 Hi there, I'm Mykhailo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-I'm an aspiring Web Developer Apprentice (Azubi Fachinformatiker Anwendungsentwicklung) from Ukraine, currently learning and working in Germany 🇩🇪.
-I'm interested about building cool things for the web!
-
----
-
-## 💻 What I Use at Work
-
-At my apprenticeship, I get hands-on experience with various technologies. We primarily focus on e-commerce and content management systems:
-
-**Main Tech Stack:**
-
-![Shopware](https://img.shields.io/badge/Shopware-%23189EFF?style=for-the-badge&logo=shopware&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Twig](https://img.shields.io/badge/Twig-88C760?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23323330)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-*Note: At vocational school (Berufsschule), I also learned some basics of Python.*
-
-**Sometimes Exploring:**
-
-![Symfony](https://img.shields.io/badge/Symfony-%23000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Framework7](https://img.shields.io/badge/Framework7-FF2D55?style=for-the-badge)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge)
+🇺🇦 Ukrainian web developer apprentice in Germany | Crafting digital experiences with code | Open source enthusiast
 
 ---
 
-## 🔧 Tools and Interests
+## 🚀 About Me
 
-I enjoy working with various tools that streamline development and learning. I'm comfortable using the Linux shell and writing simple Bash scripts. I'm also very interested in the world of open source projects. For my personal projects, I often use Docker for development environments to keep things organized.
+I'm a passionate **Fachinformatiker Anwendungsentwicklung (Apprentice Web Developer)** blending Ukrainian roots with German precision. By day, I build e-commerce solutions and CMS platforms. By night, I experiment with modern web tech and contribute to open source.
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-%2330A3DC?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+**My Mantra:**  
+*"Code should solve problems, not create new ones."*
 
 ---
 
-## 🚀 What I Use for Personal Projects
+## 🛠️ Tech Stack & Tools
 
-When I code for fun or learning, I enjoy exploring modern web technologies:
+### 💼 Professional Arsenal
+**Core Stack**  
+![Shopware](https://img.shields.io/badge/Shopware-189EFF?style=flat-square&logo=shopware&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Twig](https://img.shields.io/badge/Twig-88C760?style=flat-square&logo=twig&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Reacht](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-%230055FF?style=for-the-badge&logo=framer&logoColor=white)
+**Vocational Skills**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 🔬 Experimenting With
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### ⚙️ Dev Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ---
 
-## 🌱 What I'm Currently Learning
+## 🎨 Personal Projects Playground
 
-* Deepening my knowledge in Shopware 6 plugin development.
-* Improving my skills in modern JavaScript frameworks.
-* Always curious about new tools and best practices in web development!
+When I'm not working on enterprise solutions, I build modern web experiences:
+
+**Current Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Special Sauce:**  
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
 ---
 
-## 📫 How to Reach Me
+## 📚 Continuous Learning Path
 
-Feel free to connect!
+- **Mastering:** Shopware 6 Plugin Architecture
+- **Exploring:** Advanced React Patterns
+- **Leveling Up:** Software Design Principles
+- **Always:** Improving code quality & performance
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykhailo-solovey-34345934a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msolovey.job@gmail.com)
+---
+
+## 📊 Coding Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kamidzu9&theme=default&hide_border=true)](https://git.io/streak-stats)
+
+[![Mykhailo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamidzu9&theme=default&show_icons=true&hide_border=true&count_private=true)](https://github.com/Kamidzu9)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamidzu9&theme=default&hide_border=true&layout=compact)](https://github.com/Kamidzu9)
+
+</div>
+
+---
+
+## 🌐 Let's Connect!
+
+I'm always open to discussing web development, collaboration opportunities, or just geeking out about tech!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykhailo-solovey-34345934a/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msolovey.job@gmail.com)
+
+---
+
+<div align="center">
+  
+✨ *"The web is what we make it - let's make it awesome!"* ✨
+
+</div>
