@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mykhailo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi there, I'm Mykhailo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 🇺🇦 Ukrainian web developer apprentice in Germany | Crafting digital experiences with code | Open source enthusiast
 
