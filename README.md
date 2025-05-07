@@ -68,8 +68,6 @@ When I'm not working on enterprise solutions, I build modern web experiences:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kamidzu9&theme=default&hide_border=true)](https://git.io/streak-stats)
-
 [![Mykhailo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamidzu9&theme=default&show_icons=true&hide_border=true&count_private=true)](https://github.com/Kamidzu9)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamidzu9&theme=default&hide_border=true&layout=compact)](https://github.com/Kamidzu9)
