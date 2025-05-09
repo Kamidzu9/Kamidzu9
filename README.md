@@ -16,7 +16,9 @@ I'm a passionate **Fachinformatiker Anwendungsentwicklung (Apprentice Web Develo
 ## 🛠 Tech Stack & Tools
 
 ### 💼 Professional Arsenal
+
 **Core Stack**
+
 ![Shopware](https://img.shields.io/badge/Shopware-189EFF?style=flat-square&logo=shopware&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -25,6 +27,7 @@ I'm a passionate **Fachinformatiker Anwendungsentwicklung (Apprentice Web Develo
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 **Vocational Skills**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -45,12 +48,14 @@ I'm a passionate **Fachinformatiker Anwendungsentwicklung (Apprentice Web Develo
 When I'm not working on enterprise solutions, I build modern web experiences:
 
 **Current Stack:**
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Special Sauce:**
+
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
 ---
