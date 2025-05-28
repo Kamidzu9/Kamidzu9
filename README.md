@@ -38,6 +38,7 @@ I'm a passionate **Fachinformatiker Anwendungsentwicklung (Apprentice Web Develo
 
 ### ⚙ Dev Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![NixOS Logo](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
@@ -74,8 +75,8 @@ When I'm not working on enterprise solutions, I build modern web experiences:
 <div align="center">
 
 [![Mykhailo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamidzu9&theme=default&show_icons=true&hide_border=true&count_private=true)](https://github.com/Kamidzu9)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamidzu9&theme=default&hide_border=true&layout=compact)](https://github.com/Kamidzu9)
+
 
 </div>
 
