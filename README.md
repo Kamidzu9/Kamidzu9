@@ -1,6 +1,6 @@
 # Hi there, I'm Mykhailo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-web developer | Crafting digital experiences with code | Open source enthusiast
+Web developer | Crafting digital experiences with code | Open source enthusiast
 
 ---
 
