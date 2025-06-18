@@ -15,22 +15,20 @@ Passionate about building creative web solutions & contributing to open source.
 
 ## 🛠️ Tech Stack
 
-- **Languages & Frameworks:**  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
-  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-  ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-
-- **Web Development:**  
-  ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-
-- **Platforms & Tools:**  
-  ![Shopware 6](https://img.shields.io/badge/-Shopware%206-black?style=flat-square&logo=shopware)
-  ![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
-  ![Directus](https://img.shields.io/badge/-Directus-black?style=flat-square&logo=directus)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopware/shopware-original.svg" alt="Shopware 6" width="40" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/directus/directus/main/public/directus.svg" alt="Directus" width="40" style="margin-right:10px;"/>
+</p>
 
 ---
 
