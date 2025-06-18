@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mykhailo
+# 👋 Hi, I'm Kamidzu9
 
 **Auszubildender für Fachinformatiker – Anwendungsentwickler**  
 Passionate about building creative web solutions & contributing to open source.
@@ -16,17 +16,25 @@ Passionate about building creative web solutions & contributing to open source.
 ## 🛠️ Tech Stack
 
 - **Languages & Frameworks:**  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
+  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+  ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 
 - **Web Development:**  
-  ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+  ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
 - **Platforms & Tools:**  
-  ![Shopware 6](https://img.shields.io/badge/-Shopware%206-black?style=flat-square&logo=shopware) ![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress) ![Directus](https://img.shields.io/badge/-Directus-black?style=flat-square&logo=directus)
+  ![Shopware 6](https://img.shields.io/badge/-Shopware%206-black?style=flat-square&logo=shopware)
+  ![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
+  ![Directus](https://img.shields.io/badge/-Directus-black?style=flat-square&logo=directus)
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Project
 
 - 🛒 [mr-shop.de](https://mr-shop.de) — Custom e-commerce solution with Shopware 6
 
