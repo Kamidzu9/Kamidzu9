@@ -27,7 +27,6 @@ Passionate about building creative web solutions & contributing to open source.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopware/shopware-original.svg" alt="Shopware 6" width="40" style="margin-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/directus/directus/main/public/directus.svg" alt="Directus" width="40" style="margin-right:10px;"/>
 </p>
 
 ---
