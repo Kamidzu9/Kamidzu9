@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mykhailo
 
 **Auszubildender für Fachinformatiker – Anwendungsentwickler**  
-Passionate about building creative web solutions & contributing to open source.
+Passionate about building creative web solutions
 
 ---
 
