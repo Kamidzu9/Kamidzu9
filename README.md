@@ -40,12 +40,6 @@ Passionate about building creative web solutions & contributing to open source.
 
 ---
 
-## 🌟 Featured Project
-
-- 🛒 [mr-shop.de](https://mr-shop.de) — Custom e-commerce solution with Shopware 6
-
----
-
 ## 🌍 Connect with Me
 
 - 🌐 [Personal Website](https://kamidzu9.github.io/)
