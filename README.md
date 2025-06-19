@@ -42,7 +42,7 @@ Passionate about building creative web solutions
 
 ## 🌍 Connect with Me
 
-- 🌐 [Personal Website](https://kamidzu9.github.io/)
+- 🌐 [Personal Website](https://kamidzu9-github-io.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mykhailo-solovey-34345934a/)
 
 ---
