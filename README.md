@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kamidzu9
+# 👋 Hi, I'm Mykhailo
 
 **Auszubildender für Fachinformatiker – Anwendungsentwickler**  
 Passionate about building creative web solutions & contributing to open source.
