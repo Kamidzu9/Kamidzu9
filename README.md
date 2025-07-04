@@ -108,7 +108,7 @@
 ## 📫 Kontakt
 
 <p align="center">
-  <a href="mailto:mykhailo.solovey@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+  <a href="mailto:msolovey.job@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
   <a href="https://www.linkedin.com/in/mykhailo-solovey-34345934a/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
   <a href="https://github.com/kamidzu9"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
 </p>
