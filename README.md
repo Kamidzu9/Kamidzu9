@@ -91,7 +91,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamidzu9&theme=tokyonight" width="48%" />
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamidzu9&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamidzu9&theme=tokyonight&utcOffset=+2" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamidzu9&theme=tokyonight&utcOffset=+2" width="48%" />  
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kamidzu9&layout=compact&theme=tokyonight&hide_border=true" width="98%" />
 </div>
 
 <img src="https://raw.githubusercontent.com/kamidzu9/kamidzu9/main/assets/border_separator.gif" alt="separator" />
