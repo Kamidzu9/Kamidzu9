@@ -112,7 +112,6 @@
 
 ## 📝 Working On
 
-- **StackSafe** - Developer tool built with GTK4 and Python
 - Check my repos: https://github.com/kamidzu9?tab=repositories
 
 ---
