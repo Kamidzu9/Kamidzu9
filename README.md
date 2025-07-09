@@ -18,72 +18,68 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=0EF7BB&width=700&height=40&lines=Willkommen!;Ich+bin+Mykhailo+Solovey;Fachinformatiker+Anwendungsentwicklung" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=0EF7BB&width=700&height=40&lines=Welcome!;I+am+Mykhailo+Solovey;IT+Specialist+in+Application+Development" alt="Typing SVG" />
 </p>
 
 <img src="https://raw.githubusercontent.com/kamidzu9/kamidzu9/main/assets/border_separator.gif" alt="separator" />
 
-## 🌟 Über mich
+## 🌟 About Me
 
-- 🎓 **Ausbildung:** Fachinformatiker Anwendungsentwicklung (Azubi)
-- 💡 **Leidenschaft:** Open Source, kreative Web-Lösungen, saubere Architektur
+- 🎓 Currently training as an IT Specialist in Application Development
+- 💡 Passionate about open source, creative web solutions, and clean code
 
 ---
 
-## 🛠️ Mein Tech-Stack
+## 🛠️ Tech I Work With
 
 <div align="center">
   <table>
     <tr>
-      <th>Sprachen</th>
-      <th>Frameworks & Bibliotheken</th>
+      <th>Languages</th>
+      <th>Frameworks & Libraries</th>
       <th>DevOps & Cloud</th>
-      <th>Tools & Plattformen</th>
-      <th>Datenbanken</th> <!-- Neue Kategorie -->
+      <th>Tools & Platforms</th>
+      <th>Databases</th>
     </tr>
     <tr align="center">
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" title="Sass" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framework7/framework7-original.svg" width="40" title="Framework7" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" title="Laravel" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" title="Material UI" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" title="Vite" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" title="Vue.js" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" width="40" title="GitHub Actions" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" title="Vercel" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" />
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="Apache" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" title="npm" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopware/shopware-original.svg" width="40" title="Shopware" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" title="Vim" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" title="WordPress" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopware/shopware-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" />
       </td>
-      <td> <!-- Neue Kategorie -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" title="Redis" />
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
       </td>
     </tr>
   </table>
@@ -91,37 +87,45 @@
 
 <img src="https://raw.githubusercontent.com/kamidzu9/kamidzu9/main/assets/border_separator.gif" alt="separator" />
 
-# 📊 GitHub Statistiken
+# 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kamidzu9&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
   <img src="https://streak-stats.demolab.com?user=kamidzu9&theme=tokyonight&hide_border=true" width="49%" />
+  
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamidzu9&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamidzu9&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=kamidzu9&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" width="98%" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=kamidzu9&theme=tokyonight&no-frame=true" width="98%" />
+  
   <br><br>
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamidzu9&theme=tokyonight" width="98%" />
+  
   <br><br>
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamidzu9&theme=tokyonight" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamidzu9&theme=tokyonight" width="49%" />
+  
   <br><br>
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamidzu9&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamidzu9&theme=tokyonight&utcOffset=+2" width="49%" />  
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kamidzu9&layout=compact&theme=tokyonight&hide_border=true" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamidzu9&theme=tokyonight" width="49%" />  
 </div>
 
 <img src="https://raw.githubusercontent.com/kamidzu9/kamidzu9/main/assets/border_separator.gif" alt="separator" />
 
-## 📝 Aktuelle Projekte
+## 📝 Working On
 
-- **StackSafe** – GTK4+Python App for developers
-- Mehr unter 👉 [Meine Repos](https://github.com/kamidzu9?tab=repositories)
+- **StackSafe** - Developer tool built with GTK4 and Python
+- Check my repos: https://github.com/kamidzu9?tab=repositories
 
 ---
 
-## 📫 Kontakt
+## 📫 Get In Touch
 
 <p align="center">
   <a href="mailto:msolovey.job@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
@@ -132,5 +136,5 @@
 ---
 
 <p align="center">
-  Danke fürs Vorbeischauen! ⭐
+  Thanks for checking out my profile! ⭐
 </p>
