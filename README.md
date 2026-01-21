@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=0EF7BB&width=700&height=40&lines=Welcome!;I+am+Mykhailo+Solovey;IT+Specialist+in+Application+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=0EF7BB&width=700&height=40&lines=Welcome!;I+am+Mykhailo+Solovei;IT+Specialist+in+Application+Development" alt="Typing SVG" />
 </p>
 
 <img src="https://raw.githubusercontent.com/kamidzu9/kamidzu9/main/assets/border_separator.gif" alt="separator" />
