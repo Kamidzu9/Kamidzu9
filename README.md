@@ -95,12 +95,6 @@
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamidzu9&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=kamidzu9&theme=tokyonight&hide_border=true" width="49%" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamidzu9&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=kamidzu9&theme=tokyonight&no-frame=true" width="98%" />
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamidzu9&theme=tokyonight" width="98%" />
   <br><br>
@@ -109,8 +103,6 @@
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamidzu9&theme=tokyonight" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamidzu9&theme=tokyonight&utcOffset=+2" width="49%" />  
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kamidzu9&layout=compact&theme=tokyonight&hide_border=true" width="98%" />
 </div>
 
 <img src="https://raw.githubusercontent.com/kamidzu9/kamidzu9/main/assets/border_separator.gif" alt="separator" />
