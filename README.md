@@ -109,7 +109,9 @@
 
 ## 📝 Working On
 
-- Check my repos: https://github.com/kamidzu9?tab=repositories
+- <a href="https://github.com/Kamidzu9/calendar">Calendar</a>
+- <a href="https://github.com/Kamidzu9/steam_auction">Steam Auction</a>
+- Currently working on a private repository using C#, Powershell
 
 ---
 
