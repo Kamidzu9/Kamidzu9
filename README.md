@@ -1,12 +1,16 @@
 <!--
-Profile README — Mykhailo Solovei (kamidzu9)
-Tip: Create a repo named exactly "kamidzu9" and put this README.md inside.
+Profile README — Mykhailo Solovei
+Repo name should match your GitHub username: kamidzu9
 -->
 
-<h1 align="center">👋 Hi, I'm Mykhailo</h1>
+<h1 align="center">Hi, I'm Mykhailo 👋</h1>
 
 <p align="center">
-  <b>IT Specialist in Application Development</b> · Web Development · Clean Architecture · Automation Mindset
+  <b>Application Developer</b> · Web Development · AI/API Integrations · Automation
+</p>
+
+<p align="center">
+  I build clean, maintainable web solutions with a focus on real-world usability, solid architecture, and pragmatic automation.
 </p>
 
 <p align="center">
@@ -25,7 +29,7 @@ Tip: Create a repo named exactly "kamidzu9" and put this README.md inside.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=0EF7BB&width=760&height=42&center=true&vCenter=true&lines=Welcome+to+my+GitHub+space!;Mykhailo+Solovei+%E2%80%94+Application+Development;Web+Solutions+%7C+Open+Source+%7C+Quality+First" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=0EF7BB&width=760&height=42&center=true&vCenter=true&lines=Application+Development;Clean+Web+Solutions;AI+%26+API+Engineering;LLM-Assisted+Development;Automation+Mindset" alt="Typing SVG" />
 </p>
 
 <img src="https://raw.githubusercontent.com/kamidzu9/kamidzu9/main/assets/border_separator.gif" alt="separator" />
@@ -33,11 +37,11 @@ Tip: Create a repo named exactly "kamidzu9" and put this README.md inside.
 <h2>🌟 About Me</h2>
 
 <ul>
-  <li>🎓 Training as an <b>IT Specialist in Application Development</b></li>
-  <li>💡 Focused on <b>maintainable</b>, <b>scalable</b> solutions and a strong developer experience</li>
-  <li>🧠 I enjoy performance tuning, automation, and building clean UI/UX for real-world products</li>
-  <li>🤖 Comfortable with <b>embeddings</b>, <b>local AIs</b> (on-device/self-hosted), and <b>API-first</b> integrations</li>
-  <li>🧩 Building workflows around <b>LLM tooling</b>, vector search, and pragmatic AI features that ship</li>
+  <li>🎓 IT Specialist in Application Development</li>
+  <li>💻 Focused on web applications, backend logic, clean UI/UX, and maintainable architecture</li>
+  <li>🧠 Interested in AI-assisted workflows, embeddings, vector search, and API-first systems</li>
+  <li>⚙️ I like automating repetitive work and improving developer experience</li>
+  <li>🚀 Always learning, building, testing, and refining real-world products</li>
 </ul>
 
 <img src="https://raw.githubusercontent.com/kamidzu9/kamidzu9/main/assets/border_separator.gif" alt="separator" />
@@ -45,7 +49,7 @@ Tip: Create a repo named exactly "kamidzu9" and put this README.md inside.
 <h2>🧩 Tech Stack</h2>
 
 <p align="center">
-  <i>Core tools I leverage to deliver reliable, production-ready outcomes.</i>
+  <i>Core tools I use to build reliable, maintainable, and production-ready solutions.</i>
 </p>
 
 <div align="center">
@@ -76,6 +80,8 @@ Tip: Create a repo named exactly "kamidzu9" and put this README.md inside.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" alt="Laravel" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" alt="Three.js" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/capacitor/capacitor-original.svg" width="40" alt="Capacitor" />
       </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
@@ -96,11 +102,15 @@ Tip: Create a repo named exactly "kamidzu9" and put this README.md inside.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" alt="WordPress" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopware/shopware-original.svg" width="40" alt="Shopware" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="40" alt="ESLint" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40" alt="Playwright" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="40" alt="Vitest" />
       </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" alt="Supabase" />
       </td>
     </tr>
   </table>
@@ -111,14 +121,24 @@ Tip: Create a repo named exactly "kamidzu9" and put this README.md inside.
 <h2>🧠 AI & API Engineering</h2>
 
 <p align="center">
-  <i>Shipping pragmatic AI features with an API-first mindset.</i>
+  <i>Building practical AI-assisted and API-first workflows that improve development quality.</i>
 </p>
 
 <ul>
-  <li>🔎 <b>Embeddings</b> + vector search for semantic retrieval (RAG-ready foundations)</li>
-  <li>🏠 <b>Local / self-hosted AI</b> for privacy-first and cost-efficient deployments</li>
-  <li>🔌 <b>API integrations</b>: designing stable contracts, auth flows, rate-limit aware clients</li>
-  <li>🧰 Building tooling around prompts, evaluation, and reliable production rollouts</li>
+  <li>🔎 Embeddings and vector search for semantic retrieval and RAG-ready foundations</li>
+  <li>🔌 API integrations with stable contracts, authentication flows, and rate-limit aware clients</li>
+  <li>🤖 Learning how to use LLMs to improve coding experience, performance, code quality, debugging, and problem solving</li>
+  <li>🧰 Using automation and testing workflows to make software more reliable and easier to maintain</li>
+</ul>
+
+<img src="https://raw.githubusercontent.com/kamidzu9/kamidzu9/main/assets/border_separator.gif" alt="separator" />
+
+<h2>🚀 Current Focus</h2>
+
+<ul>
+  <li>🗓️ <a href="https://github.com/kamidzu9/calendar"><b>Calendar</b></a> — productivity-focused scheduling with clean UX</li>
+  <li>💸 <a href="https://github.com/kamidzu9/steam_auction"><b>Steam Auction</b></a> — automation and marketplace workflow experiments</li>
+  <li>🔒 Private tooling — internal automation, C#, PowerShell, and workflow optimization</li>
 </ul>
 
 <img src="https://raw.githubusercontent.com/kamidzu9/kamidzu9/main/assets/border_separator.gif" alt="separator" />
@@ -132,18 +152,8 @@ Tip: Create a repo named exactly "kamidzu9" and put this README.md inside.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamidzu9&theme=tokyonight" width="49%" alt="Most Commit Language" />
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamidzu9&theme=tokyonight" width="49%" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamidzu9&theme=tokyonight&utcOffset=+2" width="49%" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamidzu9&theme=tokyonight&utcOffset=2" width="49%" alt="Productive Time" />
 </div>
-
-<img src="https://raw.githubusercontent.com/kamidzu9/kamidzu9/main/assets/border_separator.gif" alt="separator" />
-
-<h2>🚀 Current Focus</h2>
-
-<ul>
-  <li>🗓️ <a href="https://github.com/Kamidzu9/calendar"><b>Calendar</b></a> — productivity-first scheduling and clean UX</li>
-  <li>💸 <a href="https://github.com/Kamidzu9/steam_auction"><b>Steam Auction</b></a> — automation + marketplace workflows</li>
-  <li>🔒 Private workstream — C# & PowerShell for internal tooling</li>
-</ul>
 
 <img src="https://raw.githubusercontent.com/kamidzu9/kamidzu9/main/assets/border_separator.gif" alt="separator" />
 
@@ -151,7 +161,7 @@ Tip: Create a repo named exactly "kamidzu9" and put this README.md inside.
 
 <p align="center">
   <a href="mailto:msolovey.job@gmail.com" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" width="44" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="44" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/mykhailo-solovey-34345934a/" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" width="44" alt="LinkedIn" />
@@ -162,5 +172,5 @@ Tip: Create a repo named exactly "kamidzu9" and put this README.md inside.
 </p>
 
 <p align="center">
-  <sub>Thanks for visiting — if you like what you see, consider following ⭐</sub>
+  <sub>Thanks for visiting my profile. Feel free to explore my repositories.</sub>
 </p>
