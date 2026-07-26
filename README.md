@@ -143,20 +143,6 @@ Repo name should match your GitHub username: kamidzu9
 
 <img src="https://raw.githubusercontent.com/kamidzu9/kamidzu9/main/assets/border_separator.gif" alt="separator" />
 
-<h2>📊 GitHub Insights</h2>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamidzu9&theme=tokyonight" width="98%" alt="Profile Details" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamidzu9&theme=tokyonight" width="49%" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamidzu9&theme=tokyonight" width="49%" alt="Most Commit Language" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamidzu9&theme=tokyonight" width="49%" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamidzu9&theme=tokyonight&utcOffset=2" width="49%" alt="Productive Time" />
-</div>
-
-<img src="https://raw.githubusercontent.com/kamidzu9/kamidzu9/main/assets/border_separator.gif" alt="separator" />
-
 <h2>📫 Connect</h2>
 
 <p align="center">
