@@ -136,9 +136,7 @@ Repo name should match your GitHub username: kamidzu9
 <h2>🚀 Current Focus</h2>
 
 <ul>
-  <li>🗓️ <a href="https://github.com/kamidzu9/calendar"><b>Calendar</b></a> — productivity-focused scheduling with clean UX</li>
-  <li>💸 <a href="https://github.com/kamidzu9/steam_auction"><b>Steam Auction</b></a> — automation and marketplace workflow experiments</li>
-  <li>🔒 Private tooling — internal automation, C#, PowerShell, and workflow optimization</li>
+  <li>Mivama Digital</li>
 </ul>
 
 <img src="https://raw.githubusercontent.com/kamidzu9/kamidzu9/main/assets/border_separator.gif" alt="separator" />
